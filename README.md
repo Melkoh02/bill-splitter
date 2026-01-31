@@ -1,4 +1,4 @@
-# Fair Split
+# Bill Splitter
 
 A small Python utility to fairly split shared expenses and settle everything into one simple payment per person.
 
